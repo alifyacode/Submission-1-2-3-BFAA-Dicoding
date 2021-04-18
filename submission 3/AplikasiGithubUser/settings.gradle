@@ -1,0 +1,2 @@
+include ':app', ':aplikasikonsumergithub'
+rootProject.name='AplikasiGithubUser'

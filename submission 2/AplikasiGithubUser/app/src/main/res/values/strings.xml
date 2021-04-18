@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="name_user">Nama User</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="fotouser">fotouser</string>
+    <string name="search_hint">Masukkan kata</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="url_girhub">https://github.com/</string>
+    <string name="github_user">Github User</string>
+    <string name="blank_fragment"/>
+    <string name="_29">29</string>
+    <string name="repository">Repository</string>
+    <string name="_4">4</string>
+    <string name="following">Following</string>
+    <string name="_19">19</string>
+    <string name="followers">Followers</string>
+    <string name="username">username</string>
+    <string name="name">name</string>
+    <string name="url">url</string>
+</resources>
+

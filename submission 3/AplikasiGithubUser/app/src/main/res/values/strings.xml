@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="_19">19</string>
+    <string name="nm_usr">Nama User</string>
+    <string name="lrm">lorem ipsum dolor sit amet</string>
+    <string name="ftusr">fotouser</string>
+    <string name="srch">Masukkan kata</string>
+    <string name="url_gthb">https://github.com/</string>
+    <string name="gthb_usr">Github User</string>
+    <string name="_29">29</string>
+    <string name="rps">Repository</string>
+    <string name="_4">4</string>
+    <string name="fol1">Following</string>
+    <string name="fol2">Followers</string>
+    <string name="usrnm">username</string>
+    <string name="nm">name</string>
+    <string name="url">url</string>
+    <string name="ntf_rmnd">Notification Reminder</string>
+    <string name="fvo_usr">Favorite User</string>
+</resources>
+

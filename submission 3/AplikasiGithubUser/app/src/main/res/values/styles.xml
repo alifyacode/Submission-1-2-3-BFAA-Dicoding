@@ -1,0 +1,10 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#FF0021</item>
+        <item name="colorPrimaryDark">#B00020</item>
+        <item name="colorAccent">#FF0021</item>
+    </style>
+    <style name="SrchVw" parent="Widget.AppCompat.SearchView">
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>

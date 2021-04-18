@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="name_user">Nama User</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string-array name="username">
+        <item>JakeWharton</item>
+        <item>amitshekhariitbhu</item>
+        <item>romainguy</item>
+        <item>chrisbanes</item>
+        <item>tipsy</item>
+        <item>ravi8x</item>
+        <item>jasoet</item>
+        <item>budioktaviyan</item>
+        <item>hendisantika</item>
+        <item>sidiqpermana</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Jake Wharton</item>
+        <item>Amit Shekhar</item>
+        <item>Romain Guy</item>
+        <item>Chris Banes</item>
+        <item>David</item>
+        <item>Ravi Tamada</item>
+        <item>Deny Prasetyo</item>
+        <item>Budi Oktaviyan</item>
+        <item>Hendi Santika</item>
+        <item>Sidiq Permana</item>
+    </string-array>
+
+
+    <string-array name="avatar">
+        <item>@drawable/user1</item>
+        <item>@drawable/user2</item>
+        <item>@drawable/user3</item>
+        <item>@drawable/user4</item>
+        <item>@drawable/user5</item>
+        <item>@drawable/user6</item>
+        <item>@drawable/user7</item>
+        <item>@drawable/user8</item>
+        <item>@drawable/user9</item>
+        <item>@drawable/user10</item>
+    </string-array>
+
+</resources>
+

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplikasiKonsumerGithub</string>
+    <string name="nm">name</string>
+    <string name="url">url</string>
+    <string name="fol1">Following</string>
+    <string name="fol2">Followers</string>
+</resources>
